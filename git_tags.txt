@@ -1,0 +1,15 @@
+[INIT] - Initial commit or initial setup of a project component.
+[FEAT] - A new feature is added to the project.
+[FIX] - A bug fix.
+[REFAC] - Refactoring existing code without changing functionality.
+[DOCS] - Documentation related changes, such as README updates.
+[TEST] - Everything related to testing, like adding new tests or fixing old tests.
+[STYLE] - Style and formatting related changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc.).
+[CONFIG] - Changes to configuration files.
+[DB] - Database related changes, such as migrations, schema modifications, etc.
+[SEC] - Security related changes.
+[DEPLOY] - Changes related to deploying the application.
+[API] - Changes or enhancements to API endpoints.
+[UI] - User interface updates and modifications.
+[CHORE] - Routine tasks, updates to build processes, package manager configurations, etc.
+[INT] - Changes due to integration of external systems or services, like Google Docs.
